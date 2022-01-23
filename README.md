@@ -1,5 +1,5 @@
 # About
- Responsive Navbar Template w/ Dropdown menu and Hide-Show Scrolling Effect.<br>
+ Responsive Navbar Template with Dropdown menu and Hide-Show Scrolling Effect.<br>
  Written in **HTML**, **CSS** and **JavaScript**.
  
  ## References:
